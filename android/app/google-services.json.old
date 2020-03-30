@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "223811475901",
+    "firebase_url": "https://koala-1157.firebaseio.com",
+    "project_id": "koala-1157",
+    "storage_bucket": "koala-1157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223811475901:android:8c00dac1c74cc0f3",
+        "android_client_info": {
+          "package_name": "com.frasamaya.jaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223811475901-ltqdsud38og8im8nndpnesr0nn85o9er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlXw35cCN1saz7ulDBFNs6tJmOq4U-H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223811475901-ltqdsud38og8im8nndpnesr0nn85o9er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223811475901:android:87aa8e672e9ff759",
+        "android_client_info": {
+          "package_name": "com.frasamaya.jakidelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223811475901-ltqdsud38og8im8nndpnesr0nn85o9er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlXw35cCN1saz7ulDBFNs6tJmOq4U-H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223811475901-ltqdsud38og8im8nndpnesr0nn85o9er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223811475901:android:899ac70c0562b34c",
+        "android_client_info": {
+          "package_name": "com.sekawan.cosmeticts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223811475901-ltqdsud38og8im8nndpnesr0nn85o9er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlXw35cCN1saz7ulDBFNs6tJmOq4U-H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223811475901-ltqdsud38og8im8nndpnesr0nn85o9er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

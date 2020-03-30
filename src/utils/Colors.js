@@ -1,0 +1,16 @@
+export const colors = {
+  PRIMARY_COLOR: "#d8c084",
+  BORDER_COLOR: "#9e9e9e",
+  NEGATIVE_COLOR: "#f44336",
+  BUTTON_FACEBOOK_COLOR: "#4167b2",
+  BUTTON_GOOGLE_COLOR: "#359ef7",
+  BUTTON_TEXT_COLOR: "#000000",
+  WHITE_COLOR: "#ffffff",
+  GREY_COLOR: "#7a7a7a",
+  // GREY_COLOR_LIGHT: '#f9f9f9',
+  GREY_COLOR_LIGHT: "#eaeaea",
+  GOLD_COLOR: "#c6a265",
+  BLACK_COLOR: "#000000",
+  ORANGE_COLOR: "#fdb200",
+  BACKGROUND_FIELD_COLOR: "#f3f3f3"
+};

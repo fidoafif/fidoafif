@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "42083089763",
+    "firebase_url": "https://sekawanapp.firebaseio.com",
+    "project_id": "sekawanapp",
+    "storage_bucket": "sekawanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42083089763:android:899ac70c0562b34c",
+        "android_client_info": {
+          "package_name": "com.sekawan.cosmeticts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42083089763-mv5fn3ki5msvuobkg9ero8u907cajng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcuQqqkBG8KAM2FtcNGr5__wYtsZYlhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42083089763-mv5fn3ki5msvuobkg9ero8u907cajng6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42083089763:android:19d0f4928e7be454",
+        "android_client_info": {
+          "package_name": "com.sekawanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42083089763-mv5fn3ki5msvuobkg9ero8u907cajng6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcuQqqkBG8KAM2FtcNGr5__wYtsZYlhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42083089763-mv5fn3ki5msvuobkg9ero8u907cajng6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
