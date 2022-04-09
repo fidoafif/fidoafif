@@ -4058,9 +4058,9 @@ mobx@^4.0.0:
   version "4.13.0"
   resolved "https://registry.yarnpkg.com/mobx/-/mobx-4.13.0.tgz#af4be9aac596c622a2bba4bfdaa67a5adb2ed90f"
 
-moment@*, moment@^2.22.0, moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
+moment@*, moment@^2.22.0, moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
 
 morgan@^1.9.0:
   version "1.9.1"
